@@ -1,0 +1,5 @@
+{ny} {director} - {runtime}' {genre} {info.ProductionCountries} [{vf}.{source}.{vc}.{ac}_{gigabytes}GB]{fn.match(/[-]([^-]+)$/)}
+
+Ejemeplo:
+
+Silence (2016) Martin Scorsese - 161' Drama [MX, TW, US] [720p.BRRip.x264.AAC_1.3GB]
