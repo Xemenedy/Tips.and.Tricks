@@ -1,0 +1,18 @@
+
+
+\d  = Cualquier dígito (números)
+\D  = Cualquier No-Dígito (letras, o signos)
+\w  = Cualquier caracter alfanumérico (no signos)
+\W  = Solo signos, no alfanuméricos
+\s  = Cualquier tipo de espacio
+\S  = Cualquier NO espacio
+[abc]  = Rango, lo que incluya dentro
+(abc)  = Grupo, para extraer solo lo que vaya dentro del grupo
+a{3} = El caracter "a" repetido 3 veces
+a{3,5} = El caracter "a" repetido 3 o 5 veces
+.  = Cualquier caracter. Wildcard
+*  = Que se repita 0 o más veces
++  = Que se repita 1 o más veces
+?  = Opcional
+^  = Empieza con
+$  = Termina con
